@@ -80,7 +80,3 @@ Given the provided data, what are three conclusions that we can draw about crowd
 What are some limitations of this dataset?
 
 What are some other possible tables and/or graphs that we could create, and what additional value would they provide?
-
-Use your data to determine whether the mean or the median better summarizes the data.
-
-Use your data to determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not?
